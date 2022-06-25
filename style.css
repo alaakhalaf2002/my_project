@@ -1,0 +1,22 @@
+.fixedimg{
+    background-attachment: fixed;
+    background-size: cover;
+    height: 250px;
+    }
+    .fixedimg1{
+    background-image: url(../imges/img0.jpg);
+    }
+    .fixedimg2{
+    background-image: url(../imges/img0.jpg);
+    }
+    .fix{
+        background-attachment: fixed;
+        background-size: cover;
+        height: 250px;
+        }
+        .fix{
+        background-image: url(../imges/imge111.jpg);
+        }
+        .fix4{
+        background-image: url(../imges/imge111.jpg);
+        }
